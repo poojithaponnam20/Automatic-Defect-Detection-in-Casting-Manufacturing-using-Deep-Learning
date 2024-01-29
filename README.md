@@ -3,6 +3,10 @@ This GitHub repository contains a dataset and code for developing a deep learnin
 # Dataset:
 The dataset comprises a total of 7348 grayscale images, each of size 300x300 pixels, showcasing casting manufacturing products. These images capture various defects, including blow holes, pinholes, burr, shrinkage defects, and more. To enhance the dataset, augmentation techniques have been applied to ensure diversity in the training data.
 
+Dataset link from kaggle:
+https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+
+
 Additionally, there are 1300 images of size 512x512 pixels, including 519 "good_front" and 781 "def_front" impeller images. These images were captured under stable lighting conditions, ensuring consistent quality across the dataset.
 
 # Problem Statement:
